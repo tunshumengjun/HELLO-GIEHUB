@@ -2,5 +2,5 @@
 	<head>
 		
 	<body>
-		<p><font size=88>这是内容</font></p>
+		<p size=30>这是内容</p>
 </html>
